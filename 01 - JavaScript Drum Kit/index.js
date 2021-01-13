@@ -2,7 +2,6 @@ window.addEventListener('keypress', (e) => {
     playAudio(e);
 });
 
-
 document.addEventListener("DOMContentLoaded", () => {
     attachTransformEvent();
 });
